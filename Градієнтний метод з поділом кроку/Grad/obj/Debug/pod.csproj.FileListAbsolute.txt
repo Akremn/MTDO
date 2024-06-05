@@ -1,0 +1,7 @@
+C:\Users\GAIFo\source\repos\Grad\Grad\bin\Debug\Grad.exe.config
+C:\Users\GAIFo\source\repos\Grad\Grad\bin\Debug\Grad.exe
+C:\Users\GAIFo\source\repos\Grad\Grad\bin\Debug\Grad.pdb
+C:\Users\GAIFo\source\repos\Grad\Grad\obj\Debug\pod.csproj.AssemblyReference.cache
+C:\Users\GAIFo\source\repos\Grad\Grad\obj\Debug\pod.csproj.CoreCompileInputs.cache
+C:\Users\GAIFo\source\repos\Grad\Grad\obj\Debug\Grad.exe
+C:\Users\GAIFo\source\repos\Grad\Grad\obj\Debug\Grad.pdb
