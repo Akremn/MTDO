@@ -1,0 +1,7 @@
+C:\Users\GAIFo\source\repos\Spusk\Spusk\bin\Debug\Spusk.exe.config
+C:\Users\GAIFo\source\repos\Spusk\Spusk\bin\Debug\Spusk.exe
+C:\Users\GAIFo\source\repos\Spusk\Spusk\bin\Debug\Spusk.pdb
+C:\Users\GAIFo\source\repos\Spusk\Spusk\obj\Debug\Spusk.csproj.AssemblyReference.cache
+C:\Users\GAIFo\source\repos\Spusk\Spusk\obj\Debug\Spusk.csproj.CoreCompileInputs.cache
+C:\Users\GAIFo\source\repos\Spusk\Spusk\obj\Debug\Spusk.exe
+C:\Users\GAIFo\source\repos\Spusk\Spusk\obj\Debug\Spusk.pdb
