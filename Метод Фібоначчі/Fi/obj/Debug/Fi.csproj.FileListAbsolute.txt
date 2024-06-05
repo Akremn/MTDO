@@ -1,0 +1,7 @@
+C:\Users\GAIFo\source\repos\Fi\Fi\bin\Debug\Fi.exe.config
+C:\Users\GAIFo\source\repos\Fi\Fi\bin\Debug\Fi.exe
+C:\Users\GAIFo\source\repos\Fi\Fi\bin\Debug\Fi.pdb
+C:\Users\GAIFo\source\repos\Fi\Fi\obj\Debug\Fi.csproj.AssemblyReference.cache
+C:\Users\GAIFo\source\repos\Fi\Fi\obj\Debug\Fi.csproj.CoreCompileInputs.cache
+C:\Users\GAIFo\source\repos\Fi\Fi\obj\Debug\Fi.exe
+C:\Users\GAIFo\source\repos\Fi\Fi\obj\Debug\Fi.pdb
