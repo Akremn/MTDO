@@ -1,0 +1,7 @@
+C:\Users\GAIFo\source\repos\Po cord\Po cord\bin\Debug\Po cord.exe.config
+C:\Users\GAIFo\source\repos\Po cord\Po cord\bin\Debug\Po cord.exe
+C:\Users\GAIFo\source\repos\Po cord\Po cord\bin\Debug\Po cord.pdb
+C:\Users\GAIFo\source\repos\Po cord\Po cord\obj\Debug\Po cord.csproj.AssemblyReference.cache
+C:\Users\GAIFo\source\repos\Po cord\Po cord\obj\Debug\Po cord.csproj.CoreCompileInputs.cache
+C:\Users\GAIFo\source\repos\Po cord\Po cord\obj\Debug\Po cord.exe
+C:\Users\GAIFo\source\repos\Po cord\Po cord\obj\Debug\Po cord.pdb
