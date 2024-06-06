@@ -1,7 +1,0 @@
-C:\Users\GAIFo\source\repos\zolot\zolot\bin\Debug\zolot.exe.config
-C:\Users\GAIFo\source\repos\zolot\zolot\bin\Debug\zolot.exe
-C:\Users\GAIFo\source\repos\zolot\zolot\bin\Debug\zolot.pdb
-C:\Users\GAIFo\source\repos\zolot\zolot\obj\Debug\zolot.csproj.AssemblyReference.cache
-C:\Users\GAIFo\source\repos\zolot\zolot\obj\Debug\zolot.csproj.CoreCompileInputs.cache
-C:\Users\GAIFo\source\repos\zolot\zolot\obj\Debug\zolot.exe
-C:\Users\GAIFo\source\repos\zolot\zolot\obj\Debug\zolot.pdb
