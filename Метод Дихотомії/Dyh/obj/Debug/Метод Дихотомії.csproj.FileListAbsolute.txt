@@ -1,0 +1,7 @@
+C:\Users\GAIFo\source\repos\Метод Дихотомії\Dyh\bin\Debug\Dyh.exe.config
+C:\Users\GAIFo\source\repos\Метод Дихотомії\Dyh\bin\Debug\Dyh.exe
+C:\Users\GAIFo\source\repos\Метод Дихотомії\Dyh\bin\Debug\Dyh.pdb
+C:\Users\GAIFo\source\repos\Метод Дихотомії\Dyh\obj\Debug\Метод Дихотомії.csproj.AssemblyReference.cache
+C:\Users\GAIFo\source\repos\Метод Дихотомії\Dyh\obj\Debug\Метод Дихотомії.csproj.CoreCompileInputs.cache
+C:\Users\GAIFo\source\repos\Метод Дихотомії\Dyh\obj\Debug\Dyh.exe
+C:\Users\GAIFo\source\repos\Метод Дихотомії\Dyh\obj\Debug\Dyh.pdb

@@ -1,0 +1,7 @@
+C:\Users\GAIFo\source\repos\Dyh\Dyh\bin\Debug\Dyh.exe.config
+C:\Users\GAIFo\source\repos\Dyh\Dyh\bin\Debug\Dyh.exe
+C:\Users\GAIFo\source\repos\Dyh\Dyh\bin\Debug\Dyh.pdb
+C:\Users\GAIFo\source\repos\Dyh\Dyh\obj\Debug\Dyh.csproj.AssemblyReference.cache
+C:\Users\GAIFo\source\repos\Dyh\Dyh\obj\Debug\Dyh.csproj.CoreCompileInputs.cache
+C:\Users\GAIFo\source\repos\Dyh\Dyh\obj\Debug\Dyh.exe
+C:\Users\GAIFo\source\repos\Dyh\Dyh\obj\Debug\Dyh.pdb
